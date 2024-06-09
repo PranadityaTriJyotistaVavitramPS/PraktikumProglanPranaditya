@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1717948292 source:e:\c++\praktikum\operator overloading p4\main.cpp
+	<iostream>
+	<algorithm>
+	<stdexcept>
+	<cmath>
+
